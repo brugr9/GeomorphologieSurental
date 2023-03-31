@@ -20,7 +20,6 @@ In: *Lexikon der Geographie*, Online: [https://www.spektrum.de/lexikon/geographi
 
 ### Weiteres
 
-* Schlüchter, Christian: **"Eiszeiten"**. In: *Historisches Lexikon der Schweiz (HLS)*, Version vom 01.04.2010. Online: [https://hls-dhs-dss.ch/de/articles/007771/2010-04-01/](https://hls-dhs-dss.ch/de/articles/007771/2010-04-01/)
 * Nielsen, Ebbe: **"Fundort Seetaler Kies"**. In: *Erlebnis Eiszeit*, ein Projekt der Denkmalpflege und Archäologie des Kantons Luzern, der Lötscher Kies + Beton AG und Kulturabenteuer Seetal in Zusammenarbeit mit der Pädagogischen Hochschule Luzern. PDF: [https://www.erlebnis-eiszeit.ch/pdf/Fundort_Seetaler_Kies_2015.pdf](https://www.erlebnis-eiszeit.ch/pdf/Fundort_Seetaler_Kies_2015.pdf)
 * Zurbriggen, Roger: **"Unsere Findlinge"**. Online: [https://roger-zurbriggen.ch/unsere-findlinge/](https://roger-zurbriggen.ch/unsere-findlinge/)
 * **"Wauwiler Ebene"**. *Mitteilungen der Naturforschenden Gesellschaft Luzern, Band 36 (1999)*. Naturforschende Gesellschaft Luzern NGL (Herausgeber), Online: [https://www.e-periodica.ch/digbib/view?pid=ngl-001%3A1999%3A36#4](https://www.e-periodica.ch/digbib/view?pid=ngl-001%3A1999%3A36#4)
@@ -37,12 +36,13 @@ In: *Lexikon der Geographie*, Online: [https://www.spektrum.de/lexikon/geographi
 
 ### Generell
 
+* Schlüchter, Christian: **"Eiszeiten"**. In: *Historisches Lexikon der Schweiz (HLS)*, Version vom 01.04.2010. Online: [https://hls-dhs-dss.ch/de/articles/007771/2010-04-01/](https://hls-dhs-dss.ch/de/articles/007771/2010-04-01/)
+* Simone Ulmer: **"115'000 Jahre Eiszeit in zwei Minuten"**. 06.11.2018, News-Webseite der ETH Zürich: [https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2018/11/eiszeitensimulation-macht-gletscherausdehnung-sichtbar.html](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2018/11/eiszeitensimulation-macht-gletscherausdehnung-sichtbar.html)
+  * Julien Seguinot, Susan Ivy-Ochs, Guillaume Jouvet, Matthias Huss, Martin Funk, and Frank Preusser: **"Vorstoss und Rückzug der Alpen-Gletscher während der letzten Eiszeit"**. Online auf Vimeo: [https://vimeo.com/294686110?embedded=true&source=vimeo_logo&owner=90119711](https://vimeo.com/294686110?embedded=true&source=vimeo_logo&owner=90119711)
 * **"Geomorphologie"**. In: Website der Schweizerischen Geomorphologischen Gesellschaft. Online: [https://geomorphology.ch/de/geomorphology](https://geomorphology.ch/de/geomorphology)
 * **"Lithostratigraphisches Lexikon der Schweiz"**. Online: [https://www.strati.ch/de/](https://www.strati.ch/de/)
 * **"Gebirgsbildung Schweiz"**. In: RA Online. Website: [https://www.raonline.ch/pages/edu/st/gebirge01b.html](https://www.raonline.ch/pages/edu/st/gebirge01b.html)
-* Simone Ulmer: **"115'000 Jahre Eiszeit in zwei Minuten"**. 06.11.2018, News-Webseite der ETH Zürich: [https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2018/11/eiszeitensimulation-macht-gletscherausdehnung-sichtbar.html](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2018/11/eiszeitensimulation-macht-gletscherausdehnung-sichtbar.html)
-  * Julien Seguinot, Susan Ivy-Ochs, Guillaume Jouvet, Matthias Huss, Martin Funk, and Frank Preusser: **"Vorstoss und Rückzug der Alpen-Gletscher während der letzten Eiszeit"**. Online auf Vimeo: [https://vimeo.com/294686110?embedded=true&source=vimeo_logo&owner=90119711](https://vimeo.com/294686110?embedded=true&source=vimeo_logo&owner=90119711)
-* *Webseiten der Naturforschenden Gesellschaft Luzern*, Online: [https://www.ngl.ch/](https://www.ngl.ch/)
-* **"Mitteilungen der Naturforschenden Gesellschaft Luzern"**, 1895 – ff. In: *E-Periodica*, ETH Zürich, Online: [https://www.e-periodica.ch/digbib/volumes?UID=ngl-001](https://www.e-periodica.ch/digbib/volumes?UID=ngl-001)
+* **"Naturforschende Gesellschaft Luzern**. Webseiten: [https://www.ngl.ch/](https://www.ngl.ch/)
+  * **"Mitteilungen der Naturforschenden Gesellschaft Luzern"**, 1895 – ff. In: *E-Periodica*, ETH Zürich, Online: [https://www.e-periodica.ch/digbib/volumes?UID=ngl-001](https://www.e-periodica.ch/digbib/volumes?UID=ngl-001)
 
 Roland Bruggmann, 27. Dezember 2022
