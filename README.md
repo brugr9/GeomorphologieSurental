@@ -1,5 +1,5 @@
 
-# Geomorphologie des Suhrentals
+# Geomorphologie des Surentals
 
 > **Geomorphologie** [von altgriech. gé=Erde, morphé=Gestalt und logos=Wort, Wissen], die Lehre von den Formen der festen Erdoberfläche und den Faktoren und Prozessen ihrer Entstehung und Weiterbildung, kurz Wissenschaft vom Relief der Erdkruste als Teildisziplin der Physischen Geographie. Hauptbetrachtungsweisen sind die Formbeschreibung mit qualitativen (Morphographie) und quantitativen Methoden (Morphometrie), die Erklärung der Formenentstehung i.A. (Morphogenese) und im Hinblick auf die daran beteiligten Medien (Eis, Wasser, Wind) und aus ihnen resultierenden geomorphologischen Prozesse (Morphodynamik), schliesslich die Altersbestimmung der Formen (Datierung) und ihre zeitliche Einordnung in erdgeschichtliche Abläufe (Morphochronologie).
 
@@ -46,3 +46,8 @@ In: *Lexikon der Geographie*, Online: [https://www.spektrum.de/lexikon/geographi
   * **"Mitteilungen der Naturforschenden Gesellschaft Luzern"**, 1895 – ff. In: *E-Periodica*, ETH Zürich, Online: [https://www.e-periodica.ch/digbib/volumes?UID=ngl-001](https://www.e-periodica.ch/digbib/volumes?UID=ngl-001)
 
 Roland Bruggmann, 27. Dezember 2022
+
+---
+
+Remo Conoci, Wynentaler Blatt: *"Das Tal, in dem die Suhre fliesst, wird diesseits der Kantonsgrenze «Suhrental» geschrieben, während die Luzerner lieber vom «Surental» sprechen"*. In: Aargauer Zeitung vom 26.01.2023. Online: [https://www.aargauerzeitung.ch/aargau/wyna-suhre/region-ueber-die-kantonsgrenze-regional-denken-ld.2405417](https://www.aargauerzeitung.ch/aargau/wyna-suhre/region-ueber-die-kantonsgrenze-regional-denken-ld.2405417)
+
