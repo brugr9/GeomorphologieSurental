@@ -24,7 +24,7 @@ In: *Lexikon der Geographie*, Online: [https://www.spektrum.de/lexikon/geographi
 * Nielsen, Ebbe: **"Fundort Seetaler Kies"**. In: *Erlebnis Eiszeit*, ein Projekt der Denkmalpflege und Archäologie des Kantons Luzern, der Lötscher Kies + Beton AG und Kulturabenteuer Seetal in Zusammenarbeit mit der Pädagogischen Hochschule Luzern. PDF: [https://www.erlebnis-eiszeit.ch/pdf/Fundort_Seetaler_Kies_2015.pdf](https://www.erlebnis-eiszeit.ch/pdf/Fundort_Seetaler_Kies_2015.pdf)
 * Zurbriggen, Roger: **"Unsere Findlinge"**. Online: [https://roger-zurbriggen.ch/unsere-findlinge/](https://roger-zurbriggen.ch/unsere-findlinge/)
 * **"Wauwiler Ebene"**. *Mitteilungen der Naturforschenden Gesellschaft Luzern, Band 36 (1999)*. Naturforschende Gesellschaft Luzern NGL (Herausgeber), Online: [https://www.e-periodica.ch/digbib/view?pid=ngl-001%3A1999%3A36#4](https://www.e-periodica.ch/digbib/view?pid=ngl-001%3A1999%3A36#4)
-* "**Pfahlbausiedlung Wauwil**". Website: [https://www.pfahlbausiedlung.ch/](https://www.pfahlbausiedlung.ch/)
+* **"Pfahlbausiedlung Wauwil"**. Website: [https://www.pfahlbausiedlung.ch/](https://www.pfahlbausiedlung.ch/)
 
 ### Karten
 
@@ -33,11 +33,11 @@ In: *Lexikon der Geographie*, Online: [https://www.spektrum.de/lexikon/geographi
 * **"Geologische Karte der Schweiz 1:500`000 (GK500-Geol)"**. Bundesamt für Landestopografie swisstopo, Wabern. Online: [https://map.geo.admin.ch/?topic=geol&lang=de&bgLayer=ch.swisstopo.swissimage&layers=ch.swisstopo.geologie-geologische_karte&catalogNodes=1786,1787&E=2650822.20&N=1229565.03&zoom=4](https://map.geo.admin.ch/?topic=geol&lang=de&bgLayer=ch.swisstopo.swissimage&layers=ch.swisstopo.geologie-geologische_karte&catalogNodes=1786,1787&E=2650822.20&N=1229565.03&zoom=4)
 * **"Geologischer Atlas der Schweiz 1:25`000 (GA25)"**. Bundesamt für Landestopografie swisstopo, Wabern. Online: [https://map.geo.admin.ch/?topic=geol&lang=de&bgLayer=ch.swisstopo.swissimage&layers=ch.swisstopo.geologie-geologischer_atlas&layers_opacity=0.75&catalogNodes=1786,1787&E=2650822.20&N=1229565.03&zoom=4](https://map.geo.admin.ch/?topic=geol&lang=de&bgLayer=ch.swisstopo.swissimage&layers=ch.swisstopo.geologie-geologischer_atlas&layers_opacity=0.75&catalogNodes=1786,1787&E=2650822.20&N=1229565.03&zoom=4)
 * **"Geologische Vektordatensätze GeoCover 1:25'000"**. Bundesamt für Landestopografie swisstopo, Wabern. Online: [https://map.geo.admin.ch/?topic=geol&lang=de&bgLayer=ch.swisstopo.swissimage&layers=ch.swisstopo.geologie-geocover&layers_opacity=0.75&catalogNodes=1786,1787&E=2650822.20&N=1229565.03&zoom=4](https://map.geo.admin.ch/?topic=geol&lang=de&bgLayer=ch.swisstopo.swissimage&layers=ch.swisstopo.geologie-geocover&layers_opacity=0.75&catalogNodes=1786,1787&E=2650822.20&N=1229565.03&zoom=4)
-* **Geomorphologie**. In: Atlas der Schweiz. Online: [https://www.atlasderschweiz.ch/de/geomorphology/](https://www.atlasderschweiz.ch/de/geomorphology/)
+* **"Geomorphologie"**. In: Atlas der Schweiz. Online: [https://www.atlasderschweiz.ch/de/geomorphology/](https://www.atlasderschweiz.ch/de/geomorphology/)
 
 ### Generell
 
-* **Geomorphologie**. In: Website der Schweizerischen Geomorphologischen Gesellschaft. Online: [https://geomorphology.ch/de/geomorphology](https://geomorphology.ch/de/geomorphology)
+* **"Geomorphologie"**. In: Website der Schweizerischen Geomorphologischen Gesellschaft. Online: [https://geomorphology.ch/de/geomorphology](https://geomorphology.ch/de/geomorphology)
 * **"Lithostratigraphisches Lexikon der Schweiz"**. Online: [https://www.strati.ch/de/](https://www.strati.ch/de/)
 * **"Gebirgsbildung Schweiz"**. In: RA Online. Website: [https://www.raonline.ch/pages/edu/st/gebirge01b.html](https://www.raonline.ch/pages/edu/st/gebirge01b.html)
 * Simone Ulmer: **"115'000 Jahre Eiszeit in zwei Minuten"**. 06.11.2018, News-Webseite der ETH Zürich: [https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2018/11/eiszeitensimulation-macht-gletscherausdehnung-sichtbar.html](https://ethz.ch/de/news-und-veranstaltungen/eth-news/news/2018/11/eiszeitensimulation-macht-gletscherausdehnung-sichtbar.html)
