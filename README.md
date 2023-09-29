@@ -22,7 +22,8 @@ In: *Lexikon der Geographie*, Online: [https://www.spektrum.de/lexikon/geographi
 
 * Julien Seguinot, Susan Ivy-Ochs, Guillaume Jouvet, Matthias Huss, Martin Funk, and Frank Preusser: **"Vorstoss und Rückzug der Reuss und Linth Gletschern während das Letzteiszeitliches Maximum"**. Online auf Vimeo: [https://vimeo.com/321912953](https://vimeo.com/321912953)
 * Nielsen, Ebbe: **"Fundort Seetaler Kies"**. In: *Erlebnis Eiszeit*, ein Projekt der Denkmalpflege und Archäologie des Kantons Luzern, der Lötscher Kies + Beton AG und Kulturabenteuer Seetal in Zusammenarbeit mit der Pädagogischen Hochschule Luzern. PDF: [https://www.erlebnis-eiszeit.ch/pdf/Fundort_Seetaler_Kies_2015.pdf](https://www.erlebnis-eiszeit.ch/pdf/Fundort_Seetaler_Kies_2015.pdf)
-* Zurbriggen, Roger: **"Unsere Findlinge"**. Online: [https://roger-zurbriggen.ch/unsere-findlinge/](https://roger-zurbriggen.ch/unsere-findlinge/)
+* Zurbriggen, Roger 2023: **"Unsere Findlinge"**. [https://www.prosempachersee.ch/landschaft/dokumente/](https://www.prosempachersee.ch/landschaft/dokumente/) (PDF), Pro Sempachersee. Website Zurbriggen: [https://roger-zurbriggen.ch/unsere-findlinge/](https://roger-zurbriggen.ch/unsere-findlinge/)
+* Blum, Josef: **Geologie des Sempachersees**. [https://www.prosempachersee.ch/see/dokumente/](https://www.prosempachersee.ch/see/dokumente/) (PDF), Pro Sempachersee, Dokumente zum See
 * **"Wauwiler Ebene"**. *Mitteilungen der Naturforschenden Gesellschaft Luzern, Band 36 (1999)*. Naturforschende Gesellschaft Luzern NGL (Herausgeber), Online: [https://www.e-periodica.ch/digbib/view?pid=ngl-001%3A1999%3A36#4](https://www.e-periodica.ch/digbib/view?pid=ngl-001%3A1999%3A36#4)
 * **"Pfahlbausiedlung Wauwil"**. Website: [https://www.pfahlbausiedlung.ch/](https://www.pfahlbausiedlung.ch/)
 
